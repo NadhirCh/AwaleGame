@@ -1,0 +1,90 @@
+Resultat du jeu :
+nadhir : 0
+nadhir2 : 0
+Temps ecoule : 12.23 secondes
+-----------------
+Resultat du jeu :
+nadhir : 0
+nadhir2 : 0
+Temps ecoule : 17.16 secondes
+-----------------
+Resultat du jeu :
+nadhir : 13
+nadhir2 : 18
+Temps ecoule : 217.92 secondes
+-----------------
+Resultat du jeu :
+nadhir : 13
+nadhir2 : 18
+Temps ecoule : 227.86 secondes
+-----------------
+Resultat du jeu :
+Player 1: nadhir : 0
+Player2 : akoum : 0
+Temps ecoule : 11.59 secondes
+-----------------
+Resultat du jeu :
+Player 1: nadhir : 0
+Player2 : akoum : 0
+Temps ecoule : 21.53 secondes
+-----------------
+Resultat du jeu :
+Player 1: nadhir : 0
+Player2 : akoum : 0
+Temps ecoule : 31.46 secondes
+-----------------
+Resultat du jeu :
+Player 1: nadhir : 0
+Player2 : akoum : 0
+Temps ecoule : 41.38 secondes
+-----------------
+Resultat du jeu :
+Player 1: nadhir : 0
+Player2 : akoum* : 0
+Temps ecoule : 11.02 secondes
+-----------------
+Resultat du jeu :
+Player 1: nadhir : 0
+Player2 : akoum* : 0
+Temps ecoule : 20.95 secondes
+-----------------
+Resultat du jeu :
+nadhir : 0
+Ordi : 0
+Temps ecoule : 51.25 secondes
+-----------------
+Resultat du jeu :
+badg : 0
+Ordi : 0
+Temps ecoule : 44.03 secondes
+-----------------
+Resultat du jeu :
+nadhir : 0
+Ordi : 0
+Temps ecoule : 46.88 secondes
+-----------------
+Resultat du jeu :
+nadhir : 0
+Ordi : 9
+Temps ecoule : 114.00 secondes
+-----------------
+Resultat du jeu :
+nadhir : 0
+Ordi : 0
+Temps ecoule : 10.28 secondes
+-----------------
+Resultat du jeu :
+nadhir : 0
+Ordi : 0
+Temps ecoule : 9.43 secondes
+-----------------
+Resultat du jeu :
+nadhir : 0
+chebil : 0
+Temps ecoule : 17.50 secondes
+-----------------
+Resultat du jeu :
+;nadhir : 5
+Ordi : 13
+Temps ecoule : 161.53 secondes
+-----------------

@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "sdl.h": "c",
+        "sdl_ttf.h": "c",
+        "sdl_mixer.h": "c",
+        "sdl_image.h": "c",
+        "stdio.h": "c"
+    }
+}
